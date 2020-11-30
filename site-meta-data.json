@@ -1,0 +1,9 @@
+{
+  "title": "Jatin's Blog",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "home": {
+    "title": "Hi! I'm Jatin",
+    "description": "Hi! I am jatin mishra , This is my blog. I have been designing websites and writing blogs for the past 2-3 yeaars now. It has been fun as with most things with computer are.:)"
+  }
+}
